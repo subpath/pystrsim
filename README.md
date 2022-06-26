@@ -1,6 +1,11 @@
 # pystrsim
 Python wrapper for Rust's [strsim](https://crates.io/crates/strsim) library
 
+## Installation: 
+```bash
+pip install pystrsim
+```
+
 ## Usage:
 ```python
 import pystrsim
